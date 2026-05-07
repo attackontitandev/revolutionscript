@@ -655,7 +655,7 @@ Absolutely! Every feature in the **attack on titan revolution script** can be in
 
 While no automation tool can guarantee zero risk, the **attack on titan revolution script** implements numerous safety features to minimize detection. Following the responsible usage guidelines significantly reduces risk.
 
-####Does the script collect my personal data?
+#### Does the script collect my personal data?
 
 No. The **attack on titan revolution script** operates entirely locally on your device and does not transmit any personal information or account details to external servers.
 
